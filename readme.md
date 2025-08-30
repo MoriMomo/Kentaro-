@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then, I love creating things — from small hacks to semi-professional projects.</p>
+<p align="left">A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then, [...]</p>
 
 ###
 
@@ -69,9 +69,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="./output/pacman-contribution-graph.svg">
 </picture>
 
 ###
