@@ -4,18 +4,6 @@
 
 <p align="left">A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then, I love creating things — from small hacks to semi-professional projects.</p>
 
-- 🔭 I’m currently working on [Improve Tube](https://github.com/code-charity/youtube)
-
-- 🌱 I’m currently learning **React, Vue, Nuxt**
-
-- 👯 I’m looking to collaborate on [Improve Tube](https://github.com/code-charity/youtube)
-
-- 💬 Ask me about **anything about tech**
-
-- 📫 How to reach me **kentaronareswara@gmail.com**
-
-- ⚡ Fun fact **I also like machines like motorcycles**
-
 ###
 
 <div align="center">
@@ -73,7 +61,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=MoriMomo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=MoriMomo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
