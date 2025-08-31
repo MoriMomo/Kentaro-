@@ -1,8 +1,15 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
-<p align="left">A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then, I love creating things — from small hacks to semi-professional projects.<br><br>- 🔭 I’m currently working on [Improve Tube](https://github.com/code-charity/youtube)<br><br>- 🌱 I’m currently learning **React, Vue, Nuxt**<br><br>- 👯 I’m looking to collaborate on [Improve Tube](https://github.com/code-charity/youtube)<br><br>- 💬 Ask me about **anything about tech**<br><br>- 📫 How to reach me **kentaronareswara@gmail.com**<br><br>- ⚡ Fun fact **I like also like machines like motorcycles**</p>
+![ken](img/github-header-banner.png)
+
+### A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then I love creating things — from small hacks to semi-professional projects.
+
+- 🔭 I’m currently working on [Improve Tube](https://github.com/code-charity/youtube)
+- 🌱 I’m currently learning **React, Vue, Nuxt**
+- 👯 I’m looking to collaborate on [Improve Tube](https://github.com/code-charity/youtube)
+- 💬 Ask me about **anything about tech**
+- 📫 How to reach me: [kentaronareswara@gmail.com](mailto:kentaronareswara@gmail.com)
+- ⚡ Fun fact: I also like machines, like motorcycles
 
 ###
 
