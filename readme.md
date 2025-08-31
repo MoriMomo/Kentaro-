@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then, [...]</p>
+<p align="left">A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then, I love creating things — from small hacks to semi-professional projects.<br><br>- 🔭 I’m currently working on [Improve Tube](https://github.com/code-charity/youtube)<br><br>- 🌱 I’m currently learning **React, Vue, Nuxt**<br><br>- 👯 I’m looking to collaborate on [Improve Tube](https://github.com/code-charity/youtube)<br><br>- 💬 Ask me about **anything about tech**<br><br>- 📫 How to reach me **kentaronareswara@gmail.com**<br><br>- ⚡ Fun fact **I like also like machines like motorcycles**</p>
 
 ###
 
@@ -53,10 +53,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/mr.k3n7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/putra.ken.taro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -68,18 +72,18 @@
 
 ###
 
+<p align="center">What's Up</p>
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="./output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/niuq08iu9x50use5cx9i2awg0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=niuq08iu9x50use5cx9i2awg0&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/MoriMomo/MoriMomo/output/snake.svg" alt="Snake animation" />
 
 ###
