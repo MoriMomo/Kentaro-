@@ -1,6 +1,6 @@
 ###
 
-![ken](img/github-header-banner.png)
+![ken](img/Animating_Image_Background_Like_GIF-ezgif.com-crop.gif)
 
 ### A Computer Science student at Bina Nusantara University with a creative mind for code, machines, games, and art. I started exploring computer science in middle school, and since then I love creating things — from small hacks to semi-professional projects.
 
